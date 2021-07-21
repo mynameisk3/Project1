@@ -2,14 +2,15 @@
 
 # Create Virtual Network: Red-Team
 
-<img width="947" alt="red team vnet" src="https://user-images.githubusercontent.com/87782338/126555592-30a9b594-3d37-49ec-974f-166fd0a7c23d.png">\
+<img width="947" alt="red team vnet" src="https://user-images.githubusercontent.com/87782338/126555592-30a9b594-3d37-49ec-974f-166fd0a7c23d.png"> 
+ 
 
 # Create Jump-Box Provisioner. 
 This will be used to connect to Web 1 and 2 via SSH. 
-
+ 
 <img width="934" alt="jumbox ssh" src="https://user-images.githubusercontent.com/87782338/126556005-93da5cdf-ab19-401f-b5b4-c1d3b0f10834.png">
 
-
+ 
 Create *two* VMs under Red-Team NSG. 
 
 <img width="1440" alt="web-1" src="https://user-images.githubusercontent.com/87782338/126555732-76f210ba-55fc-4e79-ab94-6ddeea05bb33.png">
