@@ -34,9 +34,7 @@ Set up Docker and Ansible
   
 <img width="1440" alt="YAML 2" src="https://user-images.githubusercontent.com/87782338/126556177-5a359040-94b1-4096-8f1e-7b268a7b5dac.png">
  
-
-<img width="1440" alt="ansible webservers -mping" src="https://user-images.githubusercontent.com/87782338/126555867-75f75466-223f-43c4-b4ba-100a7b2d31ea.png">
- 
+<img width="454" alt="-mping" src="https://user-images.githubusercontent.com/87782338/126557944-e5c9d6ef-f420-42cc-9aed-4b33f15e3716.png"> 
 
 <img width="1440" alt="ansible playbook stuck on pink?" src="https://user-images.githubusercontent.com/87782338/126555837-3a4ff39a-2b26-43a7-9aa3-751d92f27435.png">
 
