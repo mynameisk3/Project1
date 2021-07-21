@@ -2,7 +2,7 @@
 
 # Create Virtual Network: Red-Team
 
-insert proof here
+[Image] <img width="1440" alt="elk vn" src="https://user-images.githubusercontent.com/87782338/126555362-4292609d-6334-4509-bff4-d9753e62682a.png">
 
 # Create Jump-Box Provisioner. 
 This will be used to connect to Web 1 and 2 via SSH. 
