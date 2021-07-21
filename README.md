@@ -32,6 +32,8 @@ Set up Docker and Ansible
 <img width="1440" alt="Screen Shot 2021-06-21 at 10 08 51 PM" src="https://user-images.githubusercontent.com/87782338/126555917-e8893375-0374-4c8f-812f-16627dea4a40.png">
 <img width="934" alt="jumbox ssh" src="https://user-images.githubusercontent.com/87782338/126555989-5fd3fa6f-80ed-4b21-ba15-7683c68206df.png">
 
+<img width="1440" alt="ansible cfg" src="https://user-images.githubusercontent.com/87782338/126557389-dc0ff5a8-469d-4f7e-95e5-bb5395f24c9c.png">
+
 <img width="1440" alt="hosts" src="https://user-images.githubusercontent.com/87782338/126556132-21605159-707b-4e96-ad94-ff6786b7d5e1.png">
 
 <img width="1440" alt="ansible cfg" src="https://user-images.githubusercontent.com/87782338/126555854-499b3163-1d28-4264-92f7-6e0942962921.png">
