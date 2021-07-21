@@ -3,9 +3,13 @@
 # Create Virtual Network: Red-Team
 
 <img width="947" alt="red team vnet" src="https://user-images.githubusercontent.com/87782338/126555592-30a9b594-3d37-49ec-974f-166fd0a7c23d.png">
+
+
 <img width="1440" alt="virtual machines" src="https://user-images.githubusercontent.com/87782338/126555650-1a470f24-3b07-4add-9c52-dbbaabb57a36.png">
 
+
 <img width="1440" alt="elk vn" src="https://user-images.githubusercontent.com/87782338/126555362-4292609d-6334-4509-bff4-d9753e62682a.png">
+
 
 # Create Jump-Box Provisioner. 
 This will be used to connect to Web 1 and 2 via SSH. 
