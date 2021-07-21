@@ -48,13 +48,14 @@ Set up Docker and Ansible
 # Set up Peerings
 <img width="1440" alt="peerings" src="https://user-images.githubusercontent.com/87782338/126556727-b029d852-ac9d-4f30-b816-5669204a9eb7.png">
 
-# Create Elk Virtual Network and VMs
+# Create Elk Virtual Network, Inbound Rules, and VMs
 
 picture of network and VM 
 <img width="1440" alt="ELK VN 10 1 0 0:16" src="https://user-images.githubusercontent.com/87782338/126556243-15a920c9-4d28-48b1-9ba2-e01ab1fe47d5.png">
 
 <img width="1440" alt="Deployed ELK VN" src="https://user-images.githubusercontent.com/87782338/126556403-7ee0de77-acc4-4d31-a47d-578927c05355.png">
 
+<img width="1189" alt="ELK inbound security rules" src="https://user-images.githubusercontent.com/87782338/126558159-6755628c-36e9-4762-b6a4-646b95f8bbe1.png">
 
 <img width="1440" alt="ELK 1 VM" src="https://user-images.githubusercontent.com/87782338/126556273-b4e531ae-aeb3-438f-88c6-f1d63ac70c8d.png">
 
